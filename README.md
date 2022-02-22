@@ -1,0 +1,2 @@
+# solidity-lessons
+learning solidity :)
